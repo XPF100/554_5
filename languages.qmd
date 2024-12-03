@@ -5,7 +5,7 @@ editor: visual
 ---
 
 ```{r}
-#| include: false
+
 library(tidyverse)
 
 path_data <- "data/languages.csv"
